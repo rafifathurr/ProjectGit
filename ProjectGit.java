@@ -28,6 +28,8 @@ public class ProjectGit {
         ProjectGit pj = new ProjectGit();
         
         //Result
+        String result = pj.scan();
+        System.out.println("Result is : " + result );
         
   }
 }
