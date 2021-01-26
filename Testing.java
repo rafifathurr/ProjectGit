@@ -46,7 +46,7 @@ public class Testing {
         String realResult = pj.scan();
         
         String input = "new";
-        ;
+        
         
         assertEquals(input, realResult);
     }
