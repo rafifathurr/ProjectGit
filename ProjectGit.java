@@ -38,5 +38,7 @@ public class ProjectGit {
         String result = pj.scan();
         System.out.println("Result is : " + result );
         
+        //Scan2
+        scan2();
   }
 }
