@@ -25,7 +25,9 @@ public class ProjectGit {
         Scanner input = new Scanner(System.in); 
         System.out.println("Enter Your Second Text");
         
-        
+       //Output
+        String res = input.nextLine();
+        System.out.println("Your Second Text is : "+res); 
     }
     
     public static void main(String[] args) {
