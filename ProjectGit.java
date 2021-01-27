@@ -18,6 +18,15 @@ public class ProjectGit {
         return output;
         
     }
+
+    //Method static scan2
+    static void scan2(){
+        //Input
+        Scanner input = new Scanner(System.in); 
+        System.out.println("Enter Your Second Text");
+        
+        
+    }
     
     public static void main(String[] args) {
         //Call Method
