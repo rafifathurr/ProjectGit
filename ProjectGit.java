@@ -6,10 +6,6 @@ public class ProjectGit {
     private final Scanner scanner;
     
     
-    ProjectGit(Scanner scanner)
-        {
-            this.scanner  = scanner;
-        }
     
     //String scan
     public String scan(){
