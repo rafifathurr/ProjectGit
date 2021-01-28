@@ -13,9 +13,7 @@ public class ProjectGit {
         Scanner input = new Scanner(System.in); 
         System.out.println("Enter Your Text");
         
-        //Output
-        output = input.nextLine();
-        return output;
+
         
     }
 
